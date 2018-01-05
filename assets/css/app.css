@@ -2,6 +2,9 @@
 body{
   font-family: 'Abel', sans-serif;
 }
+.h-center {
+  margin: 0 auto;
+}
 .splash{
   background-image: url('../img/cover2.jpg');
   text-align: center;
